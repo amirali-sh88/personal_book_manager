@@ -11,6 +11,9 @@ A simple personal book management application built with Python. It allows users
 - Save book information in a JSON file
 - Load previously saved books
 - Admin Mode with password protection
+-  Low
+- Medium
+- High
 
 ## Requirements
 

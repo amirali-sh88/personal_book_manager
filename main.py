@@ -43,5 +43,6 @@ books.append({
 
 save_books(books)
 
-print("total task:", len(books))
+print(book_name, "added successfully")
+
 show_books(books)
